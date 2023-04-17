@@ -1,5 +1,5 @@
  # **👋 Hi, I’m BenmoussaYounes**
-  ## MSc Student in Artificial intelligence and pattern Recognition
+  ## Full Stack Developer
 - 👀 I’m interested in IOT /Networking  /AI
 - 🌍 I'm based in Algeria
 - 📫 How to reach me devbenmoussayounes@gmail.com
