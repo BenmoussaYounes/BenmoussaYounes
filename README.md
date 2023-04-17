@@ -1,4 +1,4 @@
-Software Engineer and MSc Student in Artificial intelligence and pattern 
+Software Engineer and MSc Student in Artificial intelligence and pattern Recognition
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BenmoussaYounes&show_icons=true&theme=default"/>
