@@ -1,4 +1,4 @@
-Software Engineer with a Master's degree 🎓 in Pattern Recognition and Artificial Intelligence, passionate about creating real-world solutions using mobile applications, AI, and more.
+Software Engineer with a Master's degree 🎓 in Pattern Recognition and Artificial Intelligence.
 
 Experienced in Flutter development and related technologies such as Dart, Firebase services, Responsive design, CI/CD, Testing.
 
